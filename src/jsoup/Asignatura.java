@@ -14,7 +14,7 @@ import java.util.LinkedHashMap;
  */
 public class Asignatura {
   //grupo,esGM,codAsig,desAsig,idioma,religion,fecha,diaSemana,codSesion,horaInicio,horaFin, permiso
-  
+    
   private String grupo;
   private String esGrupoMateria;
   private String codigo;
