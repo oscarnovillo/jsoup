@@ -3,8 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jsoup;
+package gui;
 
+import bd.Asignatura;
+import bd.Profesor;
+import negocio.Wafd;
 import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package jsoup;
+package negocio;
 
 import java.io.IOException;
 import java.text.DateFormat;
@@ -13,6 +13,11 @@ import java.util.LinkedHashMap;
 import java.util.ListIterator;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import bd.Alumno;
+import bd.Asignatura;
+import gui.JsoupMain;
+import bd.Profesor;
+import bd.SesionAsignatura;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
